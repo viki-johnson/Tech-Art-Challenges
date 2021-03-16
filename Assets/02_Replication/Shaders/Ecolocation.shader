@@ -1,6 +1,6 @@
 ﻿//based on https://github.com/Broxxar/NoMansScanner
 
-Shader "02_Replication/Ecolocation"
+Shader "02 Replication/Ecolocation"
 {
     Properties
     {

@@ -1,6 +1,6 @@
 ﻿// based on: https://www.ronja-tutorials.com/2018/05/26/fresnel.html
 
-Shader "02_Replication/Ghost Fresnal" 
+Shader "02 Replication/Ghost Fresnal" 
 {
     //show values to edit in inspector
     Properties {
